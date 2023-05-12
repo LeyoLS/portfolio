@@ -1,0 +1,198 @@
+body {
+
+margin: 0;
+
+margin-top: 50px;
+
+font-family: sans-serif;
+
+}
+
+ 
+
+header {
+
+display: flex;
+
+position: fixed;
+
+top: 0;
+
+left: 0;
+
+right: 0;
+
+height: 50px;
+
+line-height: 50px;
+
+background-color: red;
+
+}
+
+ 
+
+header * {
+
+display: inline;
+
+height: 50px;
+
+}
+
+ 
+
+headerul {
+
+padding: 0;
+
+}
+
+ 
+
+header li {
+
+margin-left: 20px;
+
+}
+
+ 
+
+section {
+
+height: 100vh;
+
+border: 1px solid white;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+text-align: center;
+font-size: 2em;
+
+color: white;
+
+
+
+ 
+
+background-size: cover; 
+
+background-position: center center; 
+
+background-repeat: no-repeat; 
+
+background-attachment: fixed; 
+
+}
+
+ 
+
+#home .profile-img {
+
+width: 300px;
+
+border-radius: 100%;
+
+}
+
+ 
+
+footer {
+
+text-align: center;
+
+padding: 50px;
+
+}
+
+#home h {
+
+font-size: 2em;
+
+} 
+
+#info h1 {
+
+font-size: 2em;
+
+}
+
+ 
+
+section h2 {
+
+font-size: 2em;
+
+}
+
+ 
+
+section h3 {
+
+font-size: 2em;
+
+}
+
+
+section h4 {
+
+font-size: 2em;
+
+} 
+
+section h5 {
+
+font-size: 2em;
+
+} 
+
+header a {
+
+text-decoration: none;
+
+color: black;
+
+}
+
+/* Add everything below here */
+
+#home {
+
+    background-image: url('../css/gg.png');
+
+}
+
+#info {
+
+    background-image: url('../css/ff.png');
+  
+}
+
+ 
+
+#Obj {
+
+    background-image: url('../css/aa.png');
+}
+
+ 
+
+#Education {
+
+    background-image: url('../css/ll.png');
+}
+
+#Skill {
+
+    background-image: url('../css/jj.png');
+}
+
+#Hai {
+
+    background-image: url('../css/ss.png');
+}
+
